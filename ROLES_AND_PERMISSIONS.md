@@ -20,9 +20,6 @@ Ce CMS blog collaboratif est conçu pour gérer les articles avec un workflow d'
 - ✅ Voir tous les commentaires
 - ✅ Gérer les catégories
 
-**Compte de test**: 
-- Email: `arotoky@gmail.com`
-- Password: `admin123`
 
 ---
 
@@ -39,10 +36,7 @@ Ce CMS blog collaboratif est conçu pour gérer les articles avec un workflow d'
 - ❌ Gérer les utilisateurs
 - ❌ Modifier les rôles
 
-**Compte de test**:
-- Email: `editor@demo.com`
-- Password: `editor123`
-
+*
 ---
 
 ### 3️⃣ **✍️ AUTHOR** (Auteur)
@@ -54,13 +48,7 @@ Ce CMS blog collaboratif est conçu pour gérer les articles avec un workflow d'
 - ✅ Créer des articles (statut: **pending** - en attente d'approbation)
 - ✅ Éditer ses propres articles (avant approbation)
 - ✅ Répondre aux commentaires
-- ❌ Approuver d'autres articles
-- ❌ Voir le tableau de modération
-- ❌ Créer/modifier des catégories
-
-**Compte de test**:
-- Email: `author@demo.com`
-- Password: `author123`
+- 
 
 ---
 
@@ -72,14 +60,7 @@ Ce CMS blog collaboratif est conçu pour gérer les articles avec un workflow d'
 - ✅ Chercher et filtrer les articles
 - ✅ Voir les commentaires approuvés
 - ✅ Commenter les articles
-- ❌ Créer des articles
-- ❌ Éditer des articles
-- ❌ Approuver des articles
-
-**Compte de test**:
-- Email: `client@demo.com`
-- Password: `client123`
-
+- 
 ---
 
 ## 📊 Workflow d'Approbation
